@@ -20,8 +20,20 @@
 
 ## Experiments
 
-- 😕
-- 😑
-- 😡
-- 🧮
-- ⛹️‍♀️
+- 🐷
+- 🥓
+- 🐮
+- 🎠
+
+## Keyboard shortcuts
+
+Shortcuts that I personally use frequently:
+- Crtl+C (Copy)
+- Ctrl+V (Paste)
+- Ctrl+A (Select All)
+- Ctrl+Shift-V (Paste keeping text)
+
+Shortcuts I wish I remembered to use more:
+- Ctrl+Win+Alt+Shift+L (Opens LinkedIn, super helpful)
+  
+
