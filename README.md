@@ -36,6 +36,7 @@ Shortcuts that I personally use frequently:
 Shortcuts I wish I remembered to use more:
 - Ctrl+Win+Alt+Shift+L (Opens LinkedIn, super helpful)
 
+
 [CLI commands](docs/cli.md)
   
 
